@@ -1,0 +1,15 @@
+.header-container {
+    display: flex;
+    padding: 10px 30px;
+    background: #1C2B35;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+}
+
+.menu-items a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: #fff;
+    font-size: 17px;
+}
